@@ -1,0 +1,1 @@
+model_path = "/Users/huan/Desktop/projects/music/omr/trained_models"
